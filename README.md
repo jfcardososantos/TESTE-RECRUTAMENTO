@@ -37,17 +37,27 @@ Agradecemos desde já pela sua dedicação e estamos ansiosos para revisar o seu
 ### Design
 External background color: #2C3345
 
-Fonte Preimária:
-color: #2C3345
-size: 16px
-family: Inter, sans-serif
+- Fonte Preimária:
+  
+  color: #2C3345
+  
+  size: 16px
+  
+  family: Inter, sans-serif
 
-Fonte secundária:
-color: #57647E
 
-Botão: 
-color: #FFFFFF
-background-color: #18BD5B
+- Fonte secundária:
+  
+  color: #57647E
+
+
+- Botão:
+  
+  color: #FFFFFF
+  
+  background-color: #18BD5B
+
+
 
 ### Para se inspirar
 
