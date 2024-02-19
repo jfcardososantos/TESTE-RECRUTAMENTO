@@ -4,7 +4,7 @@ Agradecemos sinceramente o seu interesse em integrar nossa equipe de desenvolvim
 
 ## Descrição do Teste
 
-Recrie a página conforme os exemplos apresentados nos prints de pré-visualização e no vídeo demonstrativo fornecidos.
+Recrie a página tentando chegar ao máximo de semelhança com os exemplos apresentados nos prints de pré-visualização e no vídeo demonstrativo fornecidos (anexos).
 
 ## Critérios de Avaliação
 
@@ -33,6 +33,23 @@ Se tiver dúvidas durante o teste, não hesite em contatar o seu mentor de teste
 Agradecemos desde já pela sua dedicação e estamos ansiosos para revisar o seu trabalho.
 
 ## ANEXOS
+
+### Design
+External background color: #2C3345
+
+Fonte Preimária:
+color: #2C3345
+size: 16px
+family: Inter, sans-serif
+
+Fonte secundária:
+color: #57647E
+
+Botão: 
+color: #FFFFFF
+background-color: #18BD5B
+
+### Para se inspirar
 
 Segue abaixo um vídeo da página e alguns prints que podem auxiliar no processo de criação:
 
