@@ -28,6 +28,8 @@ Ao concluir o teste, faça o upload do seu projeto para o seu repositório no Gi
 
 Esta documentação é essencial para compreendermos o seu processo de resolução e avaliarmos o seu trabalho de forma adequada.
 
+Além de fazer o upload do seu projeto no GitHub, por favor, realize o deploy na **Vercel** ou em outra plataforma gratuita, para que possamos avaliar o desempenho do seu projeto.
+
 Se tiver dúvidas durante o teste, não hesite em contatar o seu mentor de testes.
 
 Agradecemos desde já pela sua dedicação e estamos ansiosos para revisar o seu trabalho.
