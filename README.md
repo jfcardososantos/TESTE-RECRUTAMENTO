@@ -22,7 +22,7 @@ Com base na sua implementação, avaliaremos em que nível você se encontra par
 
 ## Instruções
 
-Por favor, escreva um código limpo e não copie códigos de terceiros. Valorizamos sua capacidade de desenvolver soluções originais.
+Por favor, escreva um código limpo e **não copie códigos de terceiros**. Valorizamos sua capacidade de desenvolver soluções originais.
 
 Ao concluir o teste, faça o upload do seu projeto para o seu repositório no GitHub. No arquivo README do seu repositório, forneça uma explicação detalhada de como você abordou e resolveu o teste. Inclua informações sobre as tecnologias utilizadas, decisões de design, desafios enfrentados e como foram superados, além de quaisquer melhorias ou otimizações implementadas.
 
