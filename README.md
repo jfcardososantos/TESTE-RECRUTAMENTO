@@ -31,3 +31,13 @@ Esta documentação é essencial para compreendermos o seu processo de resoluç�
 Se tiver dúvidas durante o teste, não hesite em contatar o seu mentor de testes.
 
 Agradecemos desde já pela sua dedicação e estamos ansiosos para revisar o seu trabalho.
+
+## ANEXOS
+
+Segue abaixo um vídeo da página e alguns prints que podem auxiliar no processo de criação:
+
+https://youtu.be/bp-DHk0pArg?si=ANyaHWKd6PqyvtZ3
+
+![Preview1](preview1.png)
+![Preview2](preview2.png)
+![Preview3](preview3.png)
